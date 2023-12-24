@@ -2,7 +2,8 @@
     "manifest": {
         "author": "greywarrior28",
         "name": "Rimuru Tempest the Slime by GreyWarrior28",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/GreyWarrior28\/Aliucord_Themes\/main\/Rimuru%20Tempest.json"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/852787316257980436\/1188562441982988419\/images_84.jpeg?ex=659afa08&is=65888508&hm=83c779a7"
