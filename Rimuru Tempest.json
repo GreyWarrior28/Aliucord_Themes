@@ -1,0 +1,20 @@
+{
+    "manifest": {
+        "author": "greywarrior28",
+        "name": "Rimuru Tempest the Slime by GreyWarrior28",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/852787316257980436\/1188562441982988419\/images_84.jpeg?ex=659afa08&is=65888508&hm=83c779a7"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "mention_highlight": -16734721,
+        "background_secondary": 0,
+        "background": 0,
+        "active_channel": 1073736448
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
